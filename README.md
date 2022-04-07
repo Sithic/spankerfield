@@ -1,3 +1,7 @@
+### PRE COMPILED
+Look in Releases for Precompiled and VMProtected versions of the 4/5/22 update!
+
+
 ### Note
 If you are going to use / share this, pack the compiled dll with VMProtect / Themida or anything else.
 
